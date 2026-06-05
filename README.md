@@ -2,7 +2,7 @@
 
 ### :key: **Web Programmer** | **Network Engineer** | **DevOps Engineer** | **IT Technical Support**
 
- > Welcome to my GitHub, I am Dede, a professional in Information Technology with a career spanning from 2018. I possess solid expertise and in-depth understanding in the field, enabling me to streamline processes, enhance operational efficiency, and contribute positively to team dynamics through constructive and proactive work.
+  Welcome to my GitHub, I am Dede, a professional in Information Technology with a career spanning from 2018. I possess solid expertise and in-depth understanding in the field, enabling me to streamline processes, enhance operational efficiency, and contribute positively to team dynamics through constructive and proactive work.
 
 ----------
 
@@ -14,4 +14,6 @@
 
 ### :sunny: **Connect with me !!**
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dede-aftafiandi-b0a21516b/) ![](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dede-aftafiandi-b0a21516b/)
+
+----------
