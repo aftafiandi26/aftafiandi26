@@ -14,4 +14,4 @@
 
 ### :sunny: **Connect with me !!**
 
-![https://www.linkedin.com/in/dede-aftafiandi-b0a21516b/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dede-aftafiandi-b0a21516b/) ![](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)
