@@ -8,7 +8,7 @@
 
 ### :toolbox: **Technologies & Tools**
 <p align="center">
-  <a href="https://www.linkedin.com/in/dede-aftafiandi-b0a21516b/">
+  <a href="https://github.com/aftafiandi26">
     <img src="https://skillicons.dev/icons?i=php,bootstrap,html,css,js,tailwind,grafana,laravel,mysql,postgres,linux,windows,nginx,postman,powershell,vscode,sublime,sketchup,ubuntur&perline=6 " />
   </a>
 </p>
