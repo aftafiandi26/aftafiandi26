@@ -20,7 +20,7 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dede-aftafiandi-b0a21516b/)
 
 <p>
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/dede-aftafiandi-b0a21516b/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
