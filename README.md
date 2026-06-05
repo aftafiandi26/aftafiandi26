@@ -9,9 +9,10 @@
 ### :toolbox: **Technologies & Tools**
 <p align="center">
   <a href="https://github.com/aftafiandi26">
-    <img src="https://skillicons.dev/icons?i=php,bootstrap,html,css,js,tailwind,grafana,laravel,mysql,postgres,linux,windows,nginx,postman,powershell,vscode,sublime,sketchup,ubuntur&perline=6 " />
+    <img src="https://skillicons.dev/icons?i=php,bootstrap,html,css,js,tailwind,grafana,laravel,mysql,postgres,linux,windows,nginx,postman,powershell,vscode,sublime,sketchup,ubuntur&perline=10 " />
   </a>
 </p>
+
 ----------
 
 ### :sunny: **Connect with me !!**
