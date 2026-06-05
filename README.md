@@ -8,16 +8,13 @@
 
 ### :toolbox: **Technologies & Tools**
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/dede-aftafiandi-b0a21516b/">
     <img src="https://skillicons.dev/icons?i=php,bootstrap,html,css,js,tailwind,grafana,laravel,mysql,postgres,linux,windows,nginx,postman,powershell,vscode,sublime,sketchup,ubuntur&perline=6 " />
   </a>
 </p>
-
 ----------
 
 ### :sunny: **Connect with me !!**
-
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dede-aftafiandi-b0a21516b/)
 
 <p>
   <a href="https://www.linkedin.com/in/dede-aftafiandi-b0a21516b/">
