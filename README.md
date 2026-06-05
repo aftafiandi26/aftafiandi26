@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there, I'm Dede Aftafiandi 👋 -->
 
 <!--
 **aftafiandi26/aftafiandi26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- ![Banner](img/github-header-banner.png) -->
+
+## Hi there, I'm Dede Aftafiandi 👋
+
+###### :key: **Web Programmer** | **Network Engineer** | **DevOps Engineer** | **IT Technical Support**
+
+> Welcome to my GitHub, I am Dede, a professional in Information Technology with a career spanning from 2018. I possess solid expertise and in-depth understanding in the field, enabling me to streamline processes, enhance operational efficiency, and contribute positively to team dynamics through constructive and proactive work.
