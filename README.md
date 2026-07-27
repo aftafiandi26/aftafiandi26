@@ -1,8 +1,9 @@
 ## Hi there, I'm Dede Aftafiandi 👋
 
-### :key: **Web Programmer** | **Network Engineer** | **DevOps Engineer** | **IT Technical Support**
+### :key: **Full Stack Web Developer** | **Infrastructure & DevOps** 
 
-  Welcome to my GitHub, I am Dede, a professional in Information Technology with a career spanning from 2018. I possess solid expertise and in-depth understanding in the field, enabling me to streamline processes, enhance operational efficiency, and contribute positively to team dynamics through constructive and proactive work.
+  Welcome to my GitHub, I am Dede, Full Stack Web Developer with 8 years of experience developing and maintaining enterprise web applications using Laravel, PHP, and JavaScript. Experienced in designing scalable backend systems, building responsive web interfaces, and managing relational databases.
+  In addition to software development, experienced in Linux server administration, VMware virtualization, enterprise networking, infrastructure monitoring, and CI/CD implementation using Jenkins, Docker, GitHub, and SonarQube. Passionate about expanding expertise in Infrastructure and DevOps while building reliable and scalable systems.
 
 ----------
 
